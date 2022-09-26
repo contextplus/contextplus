@@ -1,6 +1,8 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/contextplus/contextplus)](https://goreportcard.com/report/github.com/contextplus/contextplus)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/contextplus/contextplus)](https://pkg.go.dev/github.com/contextplus/contextplus)
 [![Go package](https://github.com/contextplus/contextplus/actions/workflows/test.yaml/badge.svg?branch=main)](https://github.com/contextplus/contextplus/actions/workflows/test.yaml)
+[![codecov](https://codecov.io/gh/contextplus/contextplus/branch/main/graph/badge.svg?token=L8E15TDQFP)](https://codecov.io/gh/contextplus/contextplus)
+[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 
 # contextplus
 
